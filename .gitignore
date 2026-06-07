@@ -2,3 +2,6 @@
 *.log  
 data\raw\**  
 .hop\audit\**  
+DEV-config.json 
+PROD-config.json 
+Dev & Prod Details_notepad.txt
