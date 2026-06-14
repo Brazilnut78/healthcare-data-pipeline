@@ -1,7 +1,0 @@
-patient_id,mrn,first_name,last_name,dob,gender,zip_code
-1001,MRN-10001,John,Smith,1965-03-15,M,33401
-1002,MRN-10002,Maria,Garcia,1972-07-22,F,33407
-1003,MRN-10003,Robert,Johnson,1948-11-30,M,33409
-1004,MRN-10004,Patricia,Williams,1955-01-08,F,33411
-1005,MRN-10005,James,Brown,1980-09-14,M,33401
-1006,,David,Wilson,not-a-date,X,33400
