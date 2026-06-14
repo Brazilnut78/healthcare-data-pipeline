@@ -49,10 +49,6 @@
     </partitioning>
     <fields>
       <field>
-        <currency/>
-        <decimal/>
-        <format/>
-        <group/>
         <length>-1</length>
         <name>source_system</name>
         <nullif>EHR</nullif>
@@ -78,7 +74,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${PROJECT_HOME}/data/samples/patients.csv</filename>
+    <filename>${INBOUND_PATH}/patients.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>

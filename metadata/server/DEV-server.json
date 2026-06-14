@@ -1,0 +1,13 @@
+{
+  "webAppName": "",
+  "sslMode": false,
+  "proxyPort": "",
+  "hostname": "159.223.167.166",
+  "nonProxyHosts": "",
+  "password": "Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8",
+  "virtualPath": "",
+  "port": "8080",
+  "name": "DEV-server",
+  "proxyHostname": "",
+  "username": "cluster"
+}
