@@ -162,7 +162,7 @@ Both files are excluded via `.gitignore`. Pipelines reference environment variab
 
 ## Key Lessons Learned
 
-- HOP environment config files (`DEV-config.json`, `PROD-config.json`) must be in `.gitignore` — the course material omitted this step
+- HOP environment config files (`DEV-config.json`, `PROD-config.json`) must be in `.gitignore`
 - The `Add Constants` step should not include `load_timestamp` when the database column already has `DEFAULT NOW()` — doing so causes a parse error
 - DEV and PROD must always be separate servers — a single mistake on a shared server can corrupt irreplaceable data
 
