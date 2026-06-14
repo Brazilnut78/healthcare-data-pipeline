@@ -5,5 +5,4 @@ data\raw\**
 DEV-config.json 
 PROD-config.json 
 Dev & Prod Details_notepad.txt
-data\samples\** 
 data/samples/ 
